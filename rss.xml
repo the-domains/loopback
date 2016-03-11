@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LoopBack]]></title>
         <description><![CDATA[LoopBack]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loopback/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 03:13:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 03:18:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loopback/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It is key to loop-back.  To learn, to change, to evolve, to get better and continue on.  Thats what this </p>]]></description>
-            <link>undefinedec091f3e-151b-42c3-8cb9-bcea1398ce25/index.html</link>
+            <description><![CDATA[<p>It is key to loop-back.  To learn, to change, to evolve, to get better and continue on.  That's what this site is about.  </p>]]></description>
+            <link>https://thegrid.ai/loopback/ec091f3e-151b-42c3-8cb9-bcea1398ce25/index.html</link>
             <guid isPermaLink="false">ec091f3e-151b-42c3-8cb9-bcea1398ce25</guid>
-            <pubDate>Fri, 11 Mar 2016 03:13:44 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 03:17:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
